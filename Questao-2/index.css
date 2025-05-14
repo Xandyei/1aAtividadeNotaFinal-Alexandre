@@ -1,0 +1,26 @@
+#tabela-produtos {
+  width: 80%;
+  border-collapse: collapse;
+  margin: 20px auto;
+}
+#cabecalho {
+  background-color: #4CAF50;
+  color: white;
+}
+#cabecalho th {
+  padding: 12px;
+  text-align: left;
+}
+#corpo-tabela td {
+  padding: 10px;
+  border-bottom: 1px solid #dddddd;
+}
+#linha1 {
+  background-color: #f9f9f9;
+}
+#linha3 {
+  background-color: #f9f9f9;
+}
+#linha5 {
+  background-color: #f9f9f9;
+}
