@@ -1,0 +1,37 @@
+#main {
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 40px;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: rgb(71, 19, 83);
+}
+#foto {
+    border-radius: 50%;
+    border: 2px;
+    border-color: black;
+    border-style: dotted;
+}
+#nome {
+    font-size: 40px;
+    color: rgb(255, 0, 157);
+}
+#curso {
+    color: rgb(255, 0, 157);
+    font-size: 20px;
+}
+#descricao {
+    color: rgb(255, 0, 157);
+}
+#tecnologias {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    color: rgb(255, 0, 157);
+}
