@@ -1,0 +1,31 @@
+#main {
+    display: flex;
+    width: 400px;
+    height: 400px;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: rgb(223, 201, 141);
+    padding: 20px;
+    text-align: center;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 20px;
+}
+#calcular {
+    color: white;
+    background-color: brown;
+    padding: 10px;
+}
+#peso {
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+}
+#altura {
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+}
